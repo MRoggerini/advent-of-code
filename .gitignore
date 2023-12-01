@@ -130,3 +130,6 @@ dmypy.json
 
 # .swp files from vim
 *.swp
+
+# input files
+*input.txt
