@@ -132,4 +132,4 @@ dmypy.json
 *.swp
 
 # input files
-*input.txt
+**input.txt
